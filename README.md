@@ -71,3 +71,10 @@ then wait a few minutes 5 to 10
 then you are done 
 
 my link:	blippi.4ippi.ru
+
+
+
+
+GO TO https://github.com/theproxywarscompany/proxtopia
+
+to see all the links i have made 
