@@ -29,20 +29,36 @@ select your subdomain name any name you wont
 use one of these ip destonations
 
 Unblocker	Type	IP Destination
+
 Abyss	Web browser	5.161.43.35
+
 Astroid	Games, Unblocker, Emulators, Apps	5.161.68.227
+
 Artclass	Unblocker, Games, Apps	198.251.90.4
+
 Shadow	Web Browser	104.243.38.18
+
 Kitty Cat	Proxy, games, apps	66.94.122.218
+
 Kazwire	Proxy, games, apps	209.222.97.244
+
 Plexile Arcade	Proxy, games, apps	216.24.57.1
+
 Doge Unblocker	Proxy, games, apps	38.175.196.242
+
 Interstellar	Proxy, games, apps	5.161.66.1
+
 Rammerhead	Web Browser	108.181.32.77
+
 Phantom Games	tons of games	109.122.46.55
+
 arsenic	Proxy, Games	66.179.254.164
+
 Selenite	tons of games	65.109.112.222
+
 May or may not work: Tinf0il	Proxy, games, apsp	129.213.65.72
+
+
 
 I used 66.179.254.164
 
