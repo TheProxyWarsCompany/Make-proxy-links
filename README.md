@@ -3,7 +3,7 @@ how to make proxy links!!
 
 STEP 1 
 
-Go to https://Freedns.afraid.org
+Go to https://Freedns.afraid.org : If Freedns Is blocked Use a Unblocker Or Kasm-VNC-Browser
 
  Make an Acount 
 
