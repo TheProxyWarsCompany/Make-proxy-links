@@ -24,7 +24,7 @@ click domains that are public
 
 like 4ippi.ru 
 
-select your subdomain name any name you wont
+select your subdomain name any name what ever you want
 
 use one of these ip destonations
 
